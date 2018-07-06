@@ -3,7 +3,7 @@ language: scala
 dist: trusty
 os:
   - linux
-  - osx
+#  - osx
 cache:
   directories:
     - $HOME/.ivy2/cache
